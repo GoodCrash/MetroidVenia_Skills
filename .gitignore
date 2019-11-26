@@ -19,3 +19,12 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets for just works exapmles
+Content/InfinityBladeEffects/*
+Content/InfinityBladeFireLands/*
+Content/InfinityBladeGrassLands/*
+Content/InfinityBladeIceLands/*
+Content/ParagonCountess/*
+Content/SoulCave/*
+Content/SoulCity/*
